@@ -46,3 +46,5 @@
     - Running weight from pre-trained model
     - Supervised learning
 
+# plot information
+    - placed on the code after running
