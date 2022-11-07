@@ -48,3 +48,9 @@
 
 # plot information
     - placed on the code after running
+
+# Additional experiement
+    - Import Transformed Data on the analysis as rotate data before calculate
+        - This result gets approximately 86%
+    - Also, testing algorithm after fine-tuned VGG and fine-tuned mobileNetV2
+        - Those show the result that approximately 92% above 
